@@ -18,6 +18,10 @@ vim: shiftwidth=2
 - Workflow:
     <ul>
       <li>
+        <a href="https://manjaro.org/">
+          <img align="center" height="25" src="https://commons.wikimedia.org/wiki/File:Manjaro_logo_text.svg#/media/File:Manjaro_logo_text.svg">
+      </li>
+      <li>
         <a href="https://git-scm.com">
           <img align="center" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png">
         </a>
