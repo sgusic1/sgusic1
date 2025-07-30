@@ -14,6 +14,15 @@ vim: shiftwidth=2
 <!-- TODO -->
 
 - Electrical Engineer, Department of Power Engineering
+- Self-taught programmer
+- Workflow:
+    <ul>
+      <li>
+        <a href="https://git-scm.com">
+          <img align="center" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png">
+        </a>
+      </li>
+    </ul>
 <!--
 **sgusic1/sgusic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
