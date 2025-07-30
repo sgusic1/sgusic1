@@ -1,4 +1,13 @@
-## Hi there 👋
+<!--
+vim: shiftwidth=2
+-->
+
+<p align="center">
+  <img src="./animation.svg">
+  <br>
+</p>
+
+**About me**
 
 <!--
 **sgusic1/sgusic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
