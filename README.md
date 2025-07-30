@@ -1,6 +1,3 @@
-<!--
-vim: shiftwidth=2
--->
 
 <p align="center">
   <img src="./animation.svg">
@@ -11,7 +8,6 @@ vim: shiftwidth=2
 
 ![](https://img.shields.io/badge/version-23-%236980fa)
 
-<!-- TODO -->
 
 - Electrical Engineer, Department of Power Engineering
 - Self-taught programmer
