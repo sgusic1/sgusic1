@@ -9,6 +9,7 @@ vim: shiftwidth=2
 
 **About me**
 
+![](https://img.shields.io/badge/version-23-%236980fa)
 <!--
 **sgusic1/sgusic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
