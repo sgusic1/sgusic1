@@ -20,6 +20,7 @@ vim: shiftwidth=2
       <li>
         <a href="https://manjaro.org/">
           <img align="center" height="25" src="https://forum.manjaro.org/uploads/default/original/3X/6/7/67ddfc636702bc9e895aaa05cbdfd153712d2b03.png">
+          <sub>manjaro</sub>
       </li>
       <li>
         <a href="https://git-scm.com">
