@@ -44,7 +44,7 @@
             <th>Languages & Frameworks</th>
             <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
             <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png">
-            <img align="center" height="46" scr="https://cdn.imgbin.com/3/6/2/imgbin-node-js-javascript-react-logo-express-js-javascript-logo-bBmMA8X88t7G16jsxZ17SysmA.jpg">
+            <img align="center" height="46" src="https://cdn.imgbin.com/3/6/2/imgbin-node-js-javascript-react-logo-express-js-javascript-logo-bBmMA8X88t7G16jsxZ17SysmA.jpg">
             <img align="center" height="36" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
             <img align="center" height="29" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
           </td> 
