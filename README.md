@@ -37,17 +37,27 @@
       </li>
     </ul>
 
-    <div>
+    <div align="center">
       <table>
+        <thead>
+          <tr>
+            <th>Languages & Frameworks</th>
+            <th>Other tools</th>
+          </tr>
+        </thead>
         <tr>
           <td>
-            <th>Languages & Frameworks</th>
             <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
             <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png">
-            <img align="center" height="46" src="https://cdn.imgbin.com/3/6/2/imgbin-node-js-javascript-react-logo-express-js-javascript-logo-bBmMA8X88t7G16jsxZ17SysmA.jpg">
+            <img align="center" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
             <img align="center" height="36" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
             <img align="center" height="29" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
-          </td> 
+          </td>
+          <td>
+            <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/linux/linux.png">
+            <img align="center" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+            <img align="center" height="55" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/bash/bash.png">
+          </td>
         </tr>
       </table>
    </div>
