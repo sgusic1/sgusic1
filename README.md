@@ -11,7 +11,7 @@
 
 - Electrical Engineer, Department of Power Engineering
 - Self-taught programmer
-- Workflow:
+- Environment setup:
     <ul>
       <li>
         <a href="https://manjaro.org/">
