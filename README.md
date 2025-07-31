@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="./animation.svg">
-  <br>
-</p>
-
 **About me**
 
 ![](https://img.shields.io/badge/version-23-%236980fa)
@@ -29,12 +23,6 @@
           <sub><code>fish</code></sub>
         </a>
       </li>
-      <li>
-        <a href="https://www.gnu.org/software/emacs/emacs.html">
-          <img align="center" height="17" src="https://www.gnu.org/software/emacs/images/emacs.png">
-          <sub><code>Emacs</code></sub>
-        </a>
-      </li>
     </ul>
 
     <div align="center">
@@ -50,8 +38,6 @@
             <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
             <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png">
             <img align="center" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
-            <img align="center" height="36" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-            <img align="center" height="29" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
           </td>
           <td>
             <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/linux/linux.png">
