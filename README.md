@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./animation.svg">
+  <br>
+</p>
+
 **About me**
 
 ![](https://img.shields.io/badge/version-23-%236980fa)
